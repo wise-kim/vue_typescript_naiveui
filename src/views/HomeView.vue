@@ -1,10 +1,7 @@
-<script setup lang="ts">
-import { NButton } from 'naive-ui'
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <main>
-    <n-button>나이브 기본 버튼</n-button>
-    
-  </main>
+    <div>This is HOME page</div>
 </template>
+
+<style></style>
