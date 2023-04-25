@@ -1,6 +1,14 @@
 # vue3typescript
 
-This template should help get you started developing with Vue 3 in Vite.
+- vue3
+- typescript
+- naive-iu-component
+- ag-grid
+- node 16.20.0
+
+
+## history
+- 2023.04.24 init
 
 ## Recommended IDE Setup
 
